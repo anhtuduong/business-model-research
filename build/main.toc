@@ -1,0 +1,23 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Purpose and Scope}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Brief Company Overviews}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Introducing the methodology}{1}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Theoretical Frameworks}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Business Models}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Organizational Structures}{2}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Case Study: Vinamilk}{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Company Background}{3}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Vinamilk's Business Model Analysis}{3}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Vinamilk's Organizational Structure Analysis}{3}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Strategic Fit}{3}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Case Study: VinFast}{4}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Company Background}{4}{section.4.1}%
+\contentsline {section}{\numberline {4.2}VinFast's Business Model Analysis}{4}{section.4.2}%
+\contentsline {section}{\numberline {4.3}VinFast's Organizational Structure Analysis}{4}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Strategic Fit}{4}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Comparative Analysis}{5}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Comparison of Business Models}{5}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Comparison of Organizational Structures}{5}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Implications of Organizational Structure for Business Model}{5}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Lessons Learned?...}{5}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Conclusion}{6}{chapter.6}%
